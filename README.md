@@ -2,11 +2,11 @@
 
 # Self Driving 🚗 Simulation | Genetic Algorithm🧬
 
-Genetic algorithms (GA) are based on the ideas of natural selection and genetics. It stimulates the process of natural selection which means those species who can adapt to changes in their environment are able to survive and reproduce and go to the next generation. In simple words, they simulate “survival of the fittest” among individuals of consecutive generations for solving a problem.
+**Genetic algorithms (GA)** are based on the ideas of natural selection and genetics. It stimulates the process of natural selection which means those species who can adapt to changes in their environment are able to survive and reproduce and go to the next generation. In simple words, they simulate “survival of the fittest” among individuals of consecutive generations for solving a problem.
 
-This Self-driving car simulation is a working model for GA. Here the Car (black box) tries to reach the end of the road by going through Selection & Crossover/Mutation, which are the key operator for GA. There is also a fitness score that comes out of a fitness function. The fitness function simply defines how good our solution is and it differs from problem to problem.
+This **Self-driving car simulation** is a working model for GA. Here the Car (black box) tries to reach the end of the road by going through **Selection & Crossover/Mutation**, which are the key operator for GA. There is also a **fitness score** that comes out of a **fitness function**. The fitness function simply defines how good our solution is and it differs from problem to problem.
 
-The fitness function for this simulation is defined as the sum of the best car DNA sequence minus the ideal car DNA sequence till the non-collided index divided by the non-collided index. Lesser the value, the more it is likely to succeed.
+The fitness function for this simulation is defined as the **sum of the best car DNA sequence minus the ideal car DNA sequence till the non-collided index divided by the non-collided index**. Lesser the value, the more it is likely to succeed.
 
 # how to 🏃?
 
