@@ -1,6 +1,6 @@
 <p  align="center"><img  src="https://github.com/Kousik-Ghosh/Genetic-Algorithm-Self-Driving-Car/blob/main/ScreenShot.PNG?raw=true"  alt="Expenses logo"></p>
 
-# 🚗..💨Self Driving Car Simulation 🧠| Genetic Algorithm  🧬
+# 🚗..💨Self Driving Car Simulation 🧠| Genetic Algorithm🧬
 
 Genetic algorithms (GA) are based on the ideas of natural selection and genetics. It stimulates the process of natural selection which means those species who can adapt to changes in their environment are able to survive and reproduce and go to the next generation. In simple words, they simulate “survival of the fittest” among individuals of consecutive generations for solving a problem.
 
